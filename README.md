@@ -10,6 +10,7 @@ You can find a live-preview online at: https://chittr-here.herokuapp.com
 * Sinatra
 * PostreSQL
 * deployed to Heroku
+* Tested with: Rspec, Capybara
 
 ## Features
 
