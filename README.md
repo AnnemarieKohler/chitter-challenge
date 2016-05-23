@@ -8,6 +8,7 @@ You can find a live-preview online at: https://chittr-here.herokuapp.com
 * HTML / CSS
 * Ruby
 * Sinatra
+* PostreSQL
 * deployed to Heroku
 
 ## Features
