@@ -4,9 +4,13 @@ This website is my implementation of a twitter-like website. It is the weekend c
 
 You can find a live-preview online at: https://chittr-here.herokuapp.com
 
-## Documentation
+## Technologies used
+* HTML / CSS
+* Ruby
+* Sinatra
+* deployed to Heroku
 
-The website has has the following features implemented:
+## Features
 
 *User can sign up*
 * required fields are: First name, last name, username, password and password confirmation
