@@ -37,8 +37,6 @@ You can find a live-preview online at: https://chittr-here.herokuapp.com
 * have a timestamp & the name of the author
 
 ## Requirements
-*Note: all of the following commands are meant to be typed in your command line/terminal/zsh..*
-
 Database: Postgresql, which can be installed by using homebrew's `brew install postgres`. For instructions on installing homebrew, click here: [http://brew.sh/](http://brew.sh/).
 
 This website runs on Ruby (`brew install ruby`) and the web framework Sinatra(`gem install sinatra`).
